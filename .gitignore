@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+resultados/
+mis_resultados/
+escenario_*/
+desde_excel/
+con_area/
+*.zip
+~$*.xlsx
+.DS_Store
+Thumbs.db
